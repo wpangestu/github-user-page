@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Github Page</string>
+    <string name="image_of_user">Image of User</string>
+    <string name="name_of_user">Sample User</string>
+    <string name="description">Deskripsi</string>
+    <string name="plain_usernam">\@username</string>
+    <string name="plain_count_follower">1000</string>
+    <string name="plain_follower">Follower</string>
+    <string name="plain_count_following">5</string>
+    <string name="plain_following">Following</string>
+    <string name="plain_count_repo">3</string>
+    <string name="plain_repo">Repository</string>
+</resources>
